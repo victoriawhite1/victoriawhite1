@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @victoriawhite1
-  Check out my Gravitational Wave Research in the GWR Repository!
+ -  Check out my Gravitational Wave Research in the [GWR Repository!](https://github.com/victoriawhite1/Gravitational-Wave-Research-2023-2024)
 - 👀 I’m interested in nuclear energy and data analysis. 
 - 🌱 I’ve recently earned my B.S. in physics at Hofstra University, in May 2024 
 - 💞️ I’m always looking to collaborate on projects
